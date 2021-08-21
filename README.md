@@ -17,7 +17,6 @@ make logs
 make shell
 
 # Runs static analysis code.
-
 make lint
 
 # Runs the tests.
